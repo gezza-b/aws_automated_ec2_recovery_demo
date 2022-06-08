@@ -1,0 +1,9 @@
+**.tfstate*
+.terraform
+darwin**
+**backend.tf
+**.sh
+*variables.*
+*.zip
+**security
+*.pem
